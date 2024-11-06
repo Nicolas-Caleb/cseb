@@ -1,5 +1,5 @@
 [200~# Use an official OpenJDK runtime as a parent image
-FROM openjdk:11-jdk-slim
+FROM openjdk:11
 # Set the working directory inside the container
 WORKDIR /app
 # Copy the current directory contents into the container at /app
