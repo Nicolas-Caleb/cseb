@@ -2,7 +2,7 @@ public class Sample
 {
 	public static void main(string args[])
 	{
-		System.out.println("docker example")
+		System.out.println("docker example");
 	}
 }
 
